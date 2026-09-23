@@ -20,3 +20,5 @@ This enables a quick assessment of whether redundancy is truly operational, elim
 The solution is primarily intended for existing WinCC/PCS 7 systems where such a diagnostic screen was not originally included.
 In some WinCC projects, this information is already displayed via standard or automatically generated tools.
 The redundancy system itself remains unchanged; the solution utilizes existing internal WinCC tags, while the newly developed screen offers a more convenient way to monitor their status.
+
+Source: https://support.industry.siemens.com/cs/mdm/109986377?c=141696893835&lc=en-BG
